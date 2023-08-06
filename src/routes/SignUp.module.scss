@@ -1,0 +1,25 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+.signUpContainer {
+    width: 25%;
+}
+
+.navigateAccount {
+    align-self: center;
+    text-align: center;
+}
+
+.navigateText {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
